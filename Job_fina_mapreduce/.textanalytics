@@ -1,0 +1,9 @@
+#Sat May 06 13:59:10 EDT 2017
+srcTextAnalyticsPath=[P]textAnalytics/src
+general.provenance=true
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+searchPath.dataPath=[W]/Job_fina_mapreduce
+UseModularAQL=true
+pagination.numFilesPerPage=50
+langWare.tokenizerChoice=1
